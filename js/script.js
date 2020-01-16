@@ -30,4 +30,4 @@ songImage.forEach(function(image) {
   $('.images').append('<img src="' + image + '">');
 });
 
-let songLink =['https://www.youtube.com/watch?v=Z9e7K6Hx_rY', 'https://www.youtube.com/watch?v=viimfQi_pUw', 'https://www.youtube.com/watch?v=HcVv9R1ZR84']
+let songLink =['https://www.youtube.com/watch?v=Z9e7K6Hx_rY', 'https://www.youtube.com/watch?v=viimfQi_pUw', 'https://www.youtube.com/watch?v=HcVv9R1ZR84', 'https://www.youtube.com/watch?v=dVUmSgzgOqs']
